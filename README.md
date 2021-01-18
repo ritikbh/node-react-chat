@@ -26,4 +26,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Used -
 - Node.js
 - Socket.IO
-- React.js
+- React.js (Hooks)
