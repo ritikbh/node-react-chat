@@ -1,8 +1,7 @@
 # React Node Chat Application
 This is a chat application based on Socket.IO with Node.js as backend and React.js as frontend.
 
-### Demo Link - 
-https://rapid-chat-client.herokuapp.com/
+### Preview - 
 
 ---
 
