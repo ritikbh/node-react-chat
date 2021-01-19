@@ -23,6 +23,8 @@ This is a chat application based on Socket.IO with Node.js as backend and React.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Socket server will be running on http://localhost:8000
+
 ## Used -
 - Node.js
 - Socket.IO
