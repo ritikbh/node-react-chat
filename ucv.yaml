@@ -2,7 +2,7 @@ version: 1.0.0
 integrations:
   type: UCD
   attributes:
-    auto-config: false
+    auto-config: true
     env-mapping:
       dev: DEV
       qa: QA
