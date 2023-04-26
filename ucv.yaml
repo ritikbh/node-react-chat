@@ -1,4 +1,4 @@
-version: 1.0.0
+version: 1.1.0
 integrations:
   type: UCD
   attributes:
@@ -14,3 +14,4 @@ integrations:
     token: a62854ba-f9a6-4b69-a897-ae4a42a46929
     ucdProxyConfig: null
     ucdUrl: 'https://10.134.119.198:8443/'
+
