@@ -1,0 +1,16 @@
+version: 1.2.0
+integrations:
+  type: UCD
+  attributes:
+    auto-config: true
+    env-mapping:
+      dev: DEV
+      qa: QA
+      integration: UAT
+      prod: PROD
+  configs:
+    name: ucd1
+    tenantId: 5ade13625558f2c6688d15ce
+    token: a62854ba-f9a6-4b69-a897-ae4a42a46929
+    ucdProxyConfig: null
+    ucdUrl: 'https://10.134.119.198:8443/'
