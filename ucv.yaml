@@ -9,7 +9,7 @@ integrations:
       integration: UAT
       prod: PROD
   configs:
-    name: ucd1
+    name: ucd2
     tenantId: 5ade13625558f2c6688d15ce
     token: a62854ba-f9a6-4b69-a897-ae4a42a46929
     ucdProxyConfig: null
