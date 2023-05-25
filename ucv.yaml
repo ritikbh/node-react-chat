@@ -1,4 +1,4 @@
-version: 1.4.2
+versionT: 1.4.2
 integrations:
 - type: UCD
   attributes:
