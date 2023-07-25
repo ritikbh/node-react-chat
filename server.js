@@ -12,7 +12,7 @@ const socketPort = 8000;
 app.use(cors()); // Avoid CORS policy
 
 app.get('/', function(req, res){
-  res.send('Socket Server');
+  res.send('Socket Server test branch');
 })
   
 http.listen(socketPort, function(){
